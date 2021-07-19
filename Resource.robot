@@ -25,8 +25,7 @@ Fechar Navegador Web
         Close Browser
         
 Emitir mensagem no slack
-        Post Message To Channel      Executei minha suite de teste         icon_emoji=robot_face    username=Robot    
-...                                  channel=robot-notifications
+        Post Message To Channel      Executei minha suite de teste       
 
 Preencher meu nome
         [Arguments]     ${name}
